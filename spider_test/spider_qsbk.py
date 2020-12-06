@@ -40,7 +40,7 @@ items = re.findall(pattern, data)
 print '*' * 50
 print 'open file'
 print '*' * 50
-file_name = 'spider_data.txt'
+file_name = 'spider_test/data/spider_data.txt'
 # open打开文件只能写入str类型
 # fw = open(file_name, 'wb')
 # fw.write(data)
